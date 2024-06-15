@@ -1,7 +1,5 @@
 # Analyzing Post-University Salaries by Major
 
-## Overview
-
 This project uses Python and the Pandas library to analyze a dataset of post-university salaries by college major. The analysis helps answer key questions about the earning potential of different majors and provides insights into which degrees offer the best return on investment.
 
 ![Analyzing Post-University Salaries by Major](https://github.com/NoorMahammad-S/Analyzing_the_Post-University_Salaries_of_Graduates_by_Major/blob/main/Images/Image.jpg)
